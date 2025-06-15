@@ -9,7 +9,7 @@
 - 🎓 IIT Roorkee, Applied Mathematics
 - 🔧 Skilled in C++, PyTorch, CUDA, Docker, and FastAPI
 - 🎤 Speaker at **KubeCon NA, EU & India** — on AI infra, GPU scheduling, and cloud-native ML
-- 👯 I’m looking to collaborate on **Vector Graphics, ML infrastructure, interpretable AI, GPU systems and Computational Topology**
+- 👯 I’m looking to collaborate on **Vector Graphics, ML infrastructure, interpretable AI, GPU systems** and **Computational Topology**
 - 📂 Explore my repos to see what I’m building next!
 
 <h3 align="left">Connect with me:</h3>
@@ -24,7 +24,10 @@
   <a href="https://github.com/Nk272" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://twitter.com/yourhandle" target="_blank">
+  <a href="https://twitter.com/nkgoyal272" target="_blank">
     <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=twitter&logoColor=white" alt="X (Twitter)"/>
+  </a>
+  <a href="https://sessionize.com/nikunj-goyal/" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/13455738?s=280&v=4" alt="CNCF"/>
   </a>
 </p>
