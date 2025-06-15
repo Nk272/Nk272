@@ -13,7 +13,6 @@
 - 📂 Explore my repos to see what I’m building next!
 
 <h3 align="left">Connect with me:</h3>
-<h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/nikunj-goyal-1831b517a" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -28,6 +27,7 @@
     <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=twitter&logoColor=white" alt="X (Twitter)"/>
   </a>
   <a href="https://sessionize.com/nikunj-goyal/" target="_blank">
-    <img src="https://avatars.githubusercontent.com/u/13455738?s=280&v=4" alt="CNCF"/>
+    <img src="https://img.shields.io/badge/https%3A%2F%2Fsessionize.com%2Fnikunj-goyal%2F?style=for-the-badge&label=CNCF
+" alt="CNCF"/>
   </a>
 </p>
