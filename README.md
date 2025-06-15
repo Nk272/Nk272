@@ -26,8 +26,4 @@
   <a href="https://twitter.com/nkgoyal272" target="_blank">
     <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=twitter&logoColor=white" alt="X (Twitter)"/>
   </a>
-  <a href="https://sessionize.com/nikunj-goyal/" target="_blank">
-    <img src="https://img.shields.io/badge/https%3A%2F%2Fsessionize.com%2Fnikunj-goyal%2F?style=for-the-badge&label=CNCF
-" alt="CNCF"/>
-  </a>
 </p>
