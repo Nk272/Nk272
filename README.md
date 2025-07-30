@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nikunj Goyal</h1>
-<h3 align="center">Engineering intelligence into design →<img width="152" height="40" alt="image" src="https://github.com/user-attachments/assets/a4ddd92d-3fe2-40b0-a4a3-e71271af289e" />
- ML, graphics, and performance</h3>
+<h3 align="center">Engineering intelligence into design → ML, graphics, and performance</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nk272&label=Profile%20views&color=0e75b6&style=flat" alt="nk272" /> </p>
 
