@@ -8,7 +8,7 @@
 - 🔭 Building scalable GenAI systems at Adobe | Vector graphics + Deep Learning
 - 🎓 IIT Roorkee, Applied Mathematics
 - 🔧 Skilled in C++, PyTorch, CUDA, Docker, and FastAPI
-- 🎤 Speaker at **KubeCon NA, EU & India** — on AI infra, GPU scheduling, and cloud-native ML
+- 🎤 Speaker at **KubeCon NA, EU & India** on AI infra, GPU scheduling, and cloud-native ML
 - 👯 Looking to collaborate on **Vector Graphics, ML infra and GPUs, Xplanable AI** and **Computational Topology**
 - 📂 Explore my repos to see what I’m building next!
 
