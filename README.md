@@ -9,7 +9,7 @@
 - 🎓 IIT Roorkee, Applied Mathematics
 - 🔧 Skilled in C++, PyTorch, CUDA, Docker, and FastAPI
 - 🎤 Speaker at **KubeCon NA, EU & India** on AI infra, GPU scheduling, and cloud-native ML
-- 👯 Looking to collaborate on **Vector Graphics, ML infra and GPUs, Xplanable AI** and **Computational Topology**
+- 👯 Looking to collaborate on **Vector Graphics, Machine Learning, GPUs and **Xplanable AI**
 - 📂 Explore my repos to see what I’m building next!
 
 <h3 align="left">Connect with me:</h3>
